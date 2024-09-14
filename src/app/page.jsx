@@ -29,12 +29,12 @@ export default function Home() {
             />
             <h1>Conheça nossas principais propostas</h1>
             <ul>
-              <li>1. Propor a criação do Sistema Integrado de Emprego Municipal, o “Emprega Teresina”, oportunizando suporte ao trabalhador/a, passando pela elaboração do currículo, entrevista de emprego, qualificação profissional, bem como outros serviços;</li>
+              <li>1. Propor a criação do Sistema Integrado de Emprego Municipal, o `&quot;`Emprega Teresina`&ldquo;`, oportunizando suporte ao trabalhador/a, passando pela elaboração do currículo, entrevista de emprego, qualificação profissional, bem como outros serviços;</li>
               <li className={style.type2}>2. Apoio ao Banco Popular de Teresina, disponibilizando acessos a linha de crédito e orientações que atendam às necessidades dos micros e pequenos negócios, tanto na zona rural quanto na urbana de Teresina;</li>
               <li>3. Propor e apoiar leis e ações que incentivem os jovens ao primeiro emprego e facilitem o acesso de mães, PCDs e pessoas com mais idade no mundo do trabalho;</li>
-              <li className={style.type2}>4. Incentivar a geração de emprego e renda aliada ao desenvolvimento sustentável com criação de “Empregos Verdes”, buscando apoiar empreendedores e cooperativas que trabalhem com a reciclagem de resíduos sólidos produzidos em Teresina;</li>
+              <li className={style.type2}>4. Incentivar a geração de emprego e renda aliada ao desenvolvimento sustentável com criação de `&quot;`Empregos Verdes`&ldquo;`, buscando apoiar empreendedores e cooperativas que trabalhem com a reciclagem de resíduos sólidos produzidos em Teresina;</li>
               <li>5. Propor políticas de atenção e assistência a trabalhadores e trabalhadoras por aplicativos de mobilidade, seja de transporte e/ou alimentação; (Exemplo são os pontos de apoio)</li>
-              <li className={style.type2}>6. Propor a criação de um aplicativo de ouvidoria/denúncia - "Escuta Vereador”, um canal de conexão entre os parlamentares e a população teresinense, para que possa ouvir as demandas das comunidades;</li>
+              <li className={style.type2}>6. Propor a criação de um aplicativo de ouvidoria/denúncia - `&quot;`Escuta Vereador`&ldquo;`, um canal de conexão entre os parlamentares e a população teresinense, para que possa ouvir as demandas das comunidades;</li>
               <li>7. Propor a criação de um Plano Municipal de Segurança e um Comitê de Segurança Municipal Comunitária, para que esteja em consonância com a Guarda Municipal de Teresina promovendo ações de prevenção, defesa e proteção à sociedade teresinense;</li>
               <li className={style.type2}>8. Incentivar a promoção de eventos, ações e projetos voltados à Economia Solidária, Startups, Cultura Digital, E-SPORT, Cultura GEEK e o Empreendedorismo;</li>
               <li>9. Apresentar leis e iniciativas visando a conscientização da população teresinense sobre a doação de órgãos e tecidos, aliado à criação do Comitê Municipal de Proteção a Pessoas Transplantadas;</li>
