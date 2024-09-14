@@ -1,16 +1,8 @@
-import localFont from "next/font/local";
+// import { Bebas_Neue, Poppins } from "next/font/google";
 import "./globals.css";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
-});
+// const bebas = Bebas_Neue({ subsets: ["latin"] });
+// const poppins = Poppins({ subsets: ["latin"] });
 
 export const metadata = {
   title: "FLoro do Themos Vagas",
@@ -20,7 +12,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="pt-br">
-      <body className={`${geistSans.variable} ${geistMono.variable}`}>
+      <body className={''}>
         {children}
       </body>
     </html>

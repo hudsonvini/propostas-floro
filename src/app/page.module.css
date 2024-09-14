@@ -1,8 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 .main {
   display: flex;
   align-items: center;
   flex-direction: column;
   background-color: #00a84b;
+  font-family: 'Poppins', sans-serif;
 }
 
 /* Stripe */
@@ -74,9 +78,10 @@
   color: #fff;
   /* text-transform: uppercase; */
   text-align: center;
-  font-size: 28px;
+  font-size: 34px;
   margin-bottom: 30px;
   margin-top: 40px;
+  font-family: "Bebas Neue", sans-serif;
 }
 
 .area2 h1.urnaTitle {
@@ -98,7 +103,7 @@
   border-radius: 20px;
   line-height: 140%;
   color: #fff;
-  font-weight: 500;
+  font-weight: 400;
   padding: 16px 20px;
 }
 
@@ -134,11 +139,12 @@
   height: auto;
   width: 800px;
   padding-bottom: 0px;
+  margin-top: 80px;
 }
 
 @media (max-width: 800px) {
   .area2 h1 {
-    font-size: 22px;
+    font-size: 24px;
     padding: 0px 40px;
   }
 

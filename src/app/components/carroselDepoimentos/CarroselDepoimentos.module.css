@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 .container {
     max-width: 800px;
     width: 100%;
@@ -15,10 +17,11 @@
 
 .title {
     text-align: center;
-    font-size: 32px;
+    font-size: 34px;
     font-weight: 600;
     color: #fff;
     margin-bottom: 40px;
+    font-family: "Bebas Neue", sans-serif;
 }
 
 .rollContainer {
