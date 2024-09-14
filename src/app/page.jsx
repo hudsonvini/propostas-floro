@@ -10,6 +10,8 @@ export default function Home() {
         <div className={style.stripe}></div>
 
         <section className={style.informationArea}>
+          {/* Logo */}
+          <img className={style.logo} src="/logo pdt.png" alt="Logo" />
           {/* Cnpj */}
           <p className={style.cnpj}>CNPJ DO CANDIDATO: 56.230.294/0001-00</p>
 
@@ -47,6 +49,20 @@ export default function Home() {
             </ul>
 
             <CarroselDepoimentos />
+
+            <h1>Nosso Jingle</h1>
+            <a className={style.buttonJingle} href="">
+              Ouvir agora
+            </a>
+
+            <h1 className={style.urnaTitle}>Vote na Renovação</h1>
+            <Image
+              className={style.urna}
+              width={800}
+              height={800}
+              src={'/urna.jpg'}
+              alt="Vote na Renovação"
+            />
           </div>
 
           {/* Area 3 */}
