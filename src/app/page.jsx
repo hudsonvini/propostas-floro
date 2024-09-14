@@ -15,6 +15,7 @@ export default function Home() {
             width={800}
             height={800}
             src={'/bannerPrincipal.jpg'}
+            alt="Banner principal"
           />
 
           {/* Area 2 */}
@@ -24,6 +25,7 @@ export default function Home() {
               width={800}
               height={800}
               src={'/background.jpg'}
+              alt="Background"
             />
             <h1>Conheça nossas principais propostas</h1>
             <ul>
@@ -51,6 +53,7 @@ export default function Home() {
               width={800}
               height={800}
               src={'/ponte.png'}
+              alt="Ponte Figura"
             />
           </div>
         </section>
