@@ -56,12 +56,12 @@
 
 .SlideContainer {
     display: flex;
-    width: calc(350px * 10);
-    animation: scroll 20s linear infinite;
+    width: calc(350px * 16);
+    animation: scroll 40s linear infinite;
 }
 
 .rollContainer.roll2 .SlideContainer {
-    animation: scroll2 20s linear infinite;
+    animation: scroll2 30s linear infinite;
 }
 
 @keyframes scroll {
@@ -69,13 +69,13 @@
         transform: translateX(0);
     }
     100% {
-        transform: translateX(calc(-350px * 5));
+        transform: translateX(calc(-350px * 8));
     }
 }
 
 @keyframes scroll2 {
     0% {
-        transform: translateX(calc(-350px * 5))
+        transform: translateX(calc(-350px * 8))
         
     }
     100% {

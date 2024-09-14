@@ -23,6 +23,19 @@
   width: 100%;
 }
 
+.cnpj {
+  position: fixed;
+  right: 20px;
+  height: 50vh;
+  text-align: center;
+  width: 20px;
+  writing-mode: vertical-lr;
+  top: 25%;
+  z-index: 999;
+  font-weight: 500;
+  font-size: 14px;
+}
+
 /* Banner Principal */
 .bannerPrincipal {
   height: auto;

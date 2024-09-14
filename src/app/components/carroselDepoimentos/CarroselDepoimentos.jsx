@@ -12,47 +12,70 @@ export default function CarroselDepoimentos() {
                 <div className={style.SlideContainer}>
                     {/* Card */}
                     <article className={style.card}>
-                        <img src="https://f.i.uol.com.br/fotografia/2023/08/25/169299396464e909ac19018_1692993964_3x2_md.jpg" alt="" />
+                        <img src="/depoimento.jpg" alt="depoimento" />
                     </article>
                     {/* Card */}
                     <article className={style.card}>
-                        <img src="https://www.cartacapital.com.br/wp-content/uploads/2019/11/cancerdemama-mulheres.jpg" alt="" />
+                        <img src="/depoimento2.jpg" alt="depoimento" />
                     </article>
                     {/* Card */}
                     <article className={style.card}>
-                        <img src="https://assets-blog.pagseguro.uol.com.br/wp-content/2022/08/Auxilio-Taxista.jpg" alt="" />
+                        <img src="/depoimento3.jpg" alt="depoimento" />
                     </article>
                     {/* Card */}
                     <article className={style.card}>
-                        <img src="https://static.ndmais.com.br/2023/11/pedreiro-brincalhao-600x800.png" alt="" />
+                        <img src="/depoimento4.jpg" alt="depoimento" />
                     </article>
-                    
                     {/* Card */}
                     <article className={style.card}>
-                        <img src="https://www.camara.leg.br/midias/image/2023/10/img20231026113029739-768x473.jpg" alt="" />
+                        <img src="/depoimento5.jpg" alt="depoimento" />
                     </article>
+                    {/* Card */}
+                    <article className={style.card}>
+                        <img src="/depoimento6.jpg" alt="depoimento" />
+                    </article>
+                    {/* Card */}
+                    <article className={style.card}>
+                        <img src="/depoimento7.jpg" alt="depoimento" />
+                    </article>
+                    {/* Card */}
+                    <article className={style.card}>
+                        <img src="/depoimento8.jpg" alt="depoimento" />
+                    </article>
+
 
                     {/* Card */}
                     <article className={style.card}>
-                        <img src="https://f.i.uol.com.br/fotografia/2023/08/25/169299396464e909ac19018_1692993964_3x2_md.jpg" alt="" />
+                        <img src="/depoimento.jpg" alt="depoimento" />
                     </article>
                     {/* Card */}
                     <article className={style.card}>
-                        <img src="https://www.cartacapital.com.br/wp-content/uploads/2019/11/cancerdemama-mulheres.jpg" alt="" />
+                        <img src="/depoimento2.jpg" alt="depoimento" />
                     </article>
                     {/* Card */}
                     <article className={style.card}>
-                        <img src="https://assets-blog.pagseguro.uol.com.br/wp-content/2022/08/Auxilio-Taxista.jpg" alt="" />
+                        <img src="/depoimento3.jpg" alt="depoimento" />
                     </article>
                     {/* Card */}
                     <article className={style.card}>
-                        <img src="https://static.ndmais.com.br/2023/11/pedreiro-brincalhao-600x800.png" alt="" />
+                        <img src="/depoimento4.jpg" alt="depoimento" />
                     </article>
                     {/* Card */}
                     <article className={style.card}>
-                        <img src="https://www.camara.leg.br/midias/image/2023/10/img20231026113029739-768x473.jpg" alt="" />
+                        <img src="/depoimento5.jpg" alt="depoimento" />
                     </article>
-
+                    {/* Card */}
+                    <article className={style.card}>
+                        <img src="/depoimento6.jpg" alt="depoimento" />
+                    </article>
+                    {/* Card */}
+                    <article className={style.card}>
+                        <img src="/depoimento7.jpg" alt="depoimento" />
+                    </article>
+                    {/* Card */}
+                    <article className={style.card}>
+                        <img src="/depoimento8.jpg" alt="depoimento" />
+                    </article>
                 </div>
             </div>
 
