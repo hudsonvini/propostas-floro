@@ -108,13 +108,20 @@
 
 .buttonJingle {
   display: flex;
+  align-items: center;
+  gap: 10px;
   width: fit-content;
   background-color: #fff;
   border-radius: 80px;
-  padding: 20px 40px;
-  font-weight: 500;
+  padding: 24px 40px 24px 34px;
+  font-weight: 600;
   color: #00a84b;
   margin: 0 auto;
+}
+
+.buttonJingle svg {
+  height: 16px;
+  width: auto;
 }
 
 .urna {
