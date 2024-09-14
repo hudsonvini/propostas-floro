@@ -32,9 +32,10 @@
 
 /* Area 2 */
 .area2 {
+  width: 100%;
   position: relative;
   background-image: url('/public/background.jpg');
-  padding: 40px;
+  /* padding: 40px; */
 }
 
 .area2 .background {
@@ -49,10 +50,11 @@
   position: relative;
   z-index: 2;
   color: #fff;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   text-align: center;
-  font-size: 28px;
-  margin-bottom: 20px;
+  font-size: 32px;
+  margin-bottom: 30px;
+  margin-top: 40px;
 }
 
 .area2 ul  {
@@ -62,6 +64,7 @@
   flex-direction: column;
   gap: 20px;
   list-style: none;
+  padding: 0px 20px;
 }
 
 .area2 ul li {
