@@ -59,7 +59,7 @@
 
 .SlideContainer {
     display: flex;
-    width: calc(350px * 16);
+    width: calc(350px * 14);
     animation: scroll 40s linear infinite;
 }
 
@@ -72,13 +72,13 @@
         transform: translateX(0);
     }
     100% {
-        transform: translateX(calc(-350px * 8));
+        transform: translateX(calc(-350px * 7));
     }
 }
 
 @keyframes scroll2 {
     0% {
-        transform: translateX(calc(-350px * 8))
+        transform: translateX(calc(-350px * 7))
         
     }
     100% {

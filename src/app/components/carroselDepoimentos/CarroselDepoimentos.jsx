@@ -32,10 +32,6 @@ export default function CarroselDepoimentos() {
                     </article>
                     {/* Card */}
                     <article className={style.card}>
-                        <img src="/depoimento6.jpg" alt="depoimento" />
-                    </article>
-                    {/* Card */}
-                    <article className={style.card}>
                         <img src="/depoimento7.jpg" alt="depoimento" />
                     </article>
                     {/* Card */}
@@ -63,10 +59,6 @@ export default function CarroselDepoimentos() {
                     {/* Card */}
                     <article className={style.card}>
                         <img src="/depoimento5.jpg" alt="depoimento" />
-                    </article>
-                    {/* Card */}
-                    <article className={style.card}>
-                        <img src="/depoimento6.jpg" alt="depoimento" />
                     </article>
                     {/* Card */}
                     <article className={style.card}>
