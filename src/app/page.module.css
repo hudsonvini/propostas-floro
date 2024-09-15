@@ -111,6 +111,12 @@
   background-color: #312c92;
 }
 
+.buttonsArea {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
 .buttonJingle {
   display: flex;
   align-items: center;
@@ -118,15 +124,20 @@
   width: fit-content;
   background-color: #fff;
   border-radius: 80px;
-  padding: 24px 40px 24px 34px;
+  padding: 20px 40px 20px 34px;
   font-weight: 600;
   color: #00a84b;
-  margin: 0 auto;
 }
 
 .buttonJingle svg {
   height: 16px;
   width: auto;
+}
+
+.buttonJingle.type2 {
+  color: #fff;
+  background-color: transparent;
+  border: 1px #fff solid;
 }
 
 .urna {
