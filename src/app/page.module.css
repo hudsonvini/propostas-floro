@@ -82,7 +82,7 @@
   font-size: 34px;
   margin-bottom: 30px;
   margin-top: 40px;
-  font-family: "Bebas Neue", sans-serif;
+  font-family: "Bebas Neue", sans-serif !important;
 }
 
 .area2 h1.urnaTitle {
