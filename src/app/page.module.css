@@ -1,6 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&display=swap');
 
 .main {
   display: flex;
@@ -82,7 +81,7 @@
   font-size: 34px;
   margin-bottom: 30px;
   margin-top: 40px;
-  font-family: "Bebas Neue", sans-serif !important;
+  font-family: "Bebas Neue", sans-serif;
 }
 
 .area2 h1.urnaTitle {
