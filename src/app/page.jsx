@@ -89,6 +89,14 @@ export default function Home() {
           {/* Area 3 */}
           <div className={style.area3}>
             <Image
+              className={style.toComOFloro}
+              width={350}
+              height={800}
+              src={'/tocomfloro.png'}
+              alt="to com o floro"
+            />
+
+            <Image
               className={style.bannerPrincipal}
               width={800}
               height={800}

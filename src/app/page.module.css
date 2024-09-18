@@ -146,11 +146,19 @@
 }
 /* Area 3 */
 .area3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   background-color: #00a84b;
   height: auto;
   width: 800px;
   padding-bottom: 0px;
   margin-top: 80px;
+}
+
+.toComOFloro {
+  margin:  0 auto;
+  height: auto;
 }
 
 @media (max-width: 800px) {
